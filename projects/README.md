@@ -1,5 +1,8 @@
 # Projects
 This folder showcases projects I have completed.
 ## Contents
-* [Project 1](project_1)
-* [Project 2](project_2)
+* [Address Book ](AddressBook.java)
+* [App](App.java)
+* [Calculator](Calculator.java)
+* [TicTacToe](TicTacToe.java)
+* [TodoList](TodoList.java)
